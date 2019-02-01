@@ -1,4 +1,4 @@
-package net.mfjassociates.samplesfxboot;
+package net.mfjassociates.samples.fxboot;
 
 import java.io.IOException;
 

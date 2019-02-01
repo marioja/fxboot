@@ -30,7 +30,7 @@
  * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-package net.mfjassociates.samplesfxboot;
+package net.mfjassociates.samples.fxboot;
  
 import org.springframework.stereotype.Component;
 
